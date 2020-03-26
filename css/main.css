@@ -16,9 +16,13 @@ li {
 }
 
 table {
-  min-width: 50em;
+  min-width: 46em;
 }
 
 img {
-  max-width: 70%;
+  max-width: 200px;
+}
+
+.i-search {
+  background-image: url("../images/search.svg");
 }
